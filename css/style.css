@@ -236,7 +236,7 @@ h2 {
 }
 
 .experience-details li::before {
-  content: "•";
+  content: "→";
   color: var(--primary);
   position: absolute;
   left: 0;
